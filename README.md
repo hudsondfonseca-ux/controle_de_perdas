@@ -45,5 +45,5 @@ Certifique-se de ter o Python instalado em seu computador.
 
 ### 1. Clonar o repositório ou baixar o código
 ```bash
-git clone [https://github.com/seu-usuario/controle-de-perdas.git](https://github.com/hudsondfonseca-ux/controle-de-perdas.git)
+git clone [https://github.com/hudsondfonseca-ux/controle-de-perdas.git](https://github.com/hudsondfonseca-ux/controle-de-perdas.git)
 cd controle-de-perdas
